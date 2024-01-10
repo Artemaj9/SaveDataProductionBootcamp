@@ -11,7 +11,7 @@ import SwiftUI
 struct SaveDataProductionBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FileManagerBootcamp()
         }
     }
 }
